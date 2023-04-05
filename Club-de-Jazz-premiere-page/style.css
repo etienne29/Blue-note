@@ -54,8 +54,14 @@ body {
     margin-top: 0;
     text-shadow: 2px 2px 4px #000000;
   }
+  headerevent {
+    color: white;
+  }
+  #headerevent {
+    color: white;
+    font-size: 30px;
+  }
   
-  /* H */
   div h1 {
   font-size: 70px;
   color: white;
